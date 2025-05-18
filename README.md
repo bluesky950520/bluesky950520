@@ -24,8 +24,8 @@
 
 | Project | Overview | Tech Stack | Links |
 |---------|----------|------------|-------|
-| **MyCoolApp** | A progressive web app featuring real-time chat and user presence detection, built on Firebase. Optimized for mobile and offline use. | React, Firebase (Auth, Firestore), PWA | [🔗 Live Site](https://mycoolapp.com) |
-| **AutoScraper** | A lightweight yet powerful web scraping tool requiring minimal configuration. Automatically learns patterns from sample data. | Python, BeautifulSoup, Regex | [🔗 GitHub Repo](https://github.com/bluesky950520/autoscraper) |
+| **MyCoolApp** | A progressive web app featuring real-time chat and user presence detection, built on Firebase. Optimized for mobile and offline use. | React, Firebase (Auth, Firestore), PWA | [🔗 Live Site](https://github.com/bluesky950520/Remote-Workout-AI) |
+| **AutoScraper** | A lightweight yet powerful web scraping tool requiring minimal configuration. Automatically learns patterns from sample data. | Python, BeautifulSoup, Regex | [🔗 GitHub Repo](https://github.com/bluesky950520/rf-tools) |
 
 ## 👨‍💻 About Me
 
